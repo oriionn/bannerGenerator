@@ -1,3 +1,5 @@
+![Project Banner](https://banapi.oriondev.fr/?name=Banner%20Generator&description=Little%20API%20to%20generate%20a%20custom%20banner%20for%20my%20projects.)
+
 # Banner Generator
 Little API to generate a custom banner for my projects.
 
