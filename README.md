@@ -14,11 +14,19 @@ cd bannerGenerator
 ```bash
 npm install
 ```
-4. Run the project
+4. Create a .env file and add your environment variables
+```bash
+nano .env
+```
+Example:
+```dotenv
+PORT=3000
+```
+5. Run the project
 ```bash
 npm start
 ```
-5. Open your browser and go to http://localhost:3000
+6. Open your browser and go to http://localhost:3000
 
 ## Usage
 ### GET /
