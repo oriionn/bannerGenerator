@@ -1,0 +1,36 @@
+<svg width="750" height="200" viewBox="0 0 750 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="750" height="200" rx="20" fill="url(#paint0_linear_1_2)"/>
+    <text x="50%" y="40%" font-family="monospace" font-size="40" fill="black" text-anchor="middle" alignment-baseline="middle">{{NAME}}</text>
+    <text x="50%" y="60%" font-family="monospace" font-size="15" fill="black" style="width:1px;" text-anchor="middle" alignment-baseline="middle">{{DESCRIPTION}}</text>
+    <text x="50%" y="70%" font-family="monospace" font-size="15" fill="black" style="width:1px;" text-anchor="middle" alignment-baseline="middle">{{DESCRIPTION2}}</text>
+    <g clip-path="url(#clip0_1_2)">
+        <path d="M715.391 180.821C679.926 180.821 651.2 144.456 651.2 99.6174C651.2 54.7791 679.926 18.4142 715.391 18.4142" stroke="white" stroke-width="11" stroke-miterlimit="10"/>
+        <path d="M722.839 11C722.839 12.9664 722.054 14.8522 720.657 16.2426C719.261 17.6331 717.366 18.4142 715.391 18.4142" stroke="white" stroke-width="11" stroke-miterlimit="10"/>
+        <path d="M724.644 190C724.644 187.586 723.681 185.271 721.966 183.564C720.251 181.857 717.926 180.898 715.501 180.898" stroke="white" stroke-width="11" stroke-miterlimit="10"/>
+        <path d="M715.568 182.586V103.755V16.2959" stroke="white" stroke-width="4" stroke-miterlimit="10"/>
+        <path d="M727.804 99.6174H683.118L621.055 99.6174" stroke="white" stroke-width="4" stroke-miterlimit="10"/>
+        <path d="M620.97 99.2219C620.97 99.2219 623.807 104.129 631.276 106.212L606.628 99.2219L631.276 91.7865C631.276 91.7865 622.314 96.5458 620.97 99.2219Z" fill="white" stroke="white" stroke-miterlimit="10"/>
+        <path d="M716.764 99.8398L726.087 93.7707H739L729.279 100.101L738.837 106.325H726.272L716.764 99.8398Z" fill="white"/>
+    </g>
+    <g clip-path="url(#clip1_1_2)">
+        <path d="M35.6089 20.1795C71.0737 20.1795 99.8001 56.5444 99.8001 101.383C99.8001 146.221 71.0737 182.586 35.6089 182.586" stroke="white" stroke-width="11" stroke-miterlimit="10"/>
+        <path d="M28.1613 190C28.1613 188.034 28.946 186.148 30.3427 184.757C31.7394 183.367 33.6337 182.586 35.6089 182.586" stroke="white" stroke-width="11" stroke-miterlimit="10"/>
+        <path d="M26.3561 11C26.3561 13.414 27.3194 15.729 29.034 17.436C30.7486 19.1429 33.0741 20.1018 35.499 20.1018" stroke="white" stroke-width="11" stroke-miterlimit="10"/>
+        <path d="M35.4316 18.4142V97.2448V184.704" stroke="white" stroke-width="4" stroke-miterlimit="10"/>
+        <path d="M23.1962 101.383H67.8818H129.945" stroke="white" stroke-width="4" stroke-miterlimit="10"/>
+        <path d="M130.03 101.778C130.03 101.778 127.193 96.8706 119.724 94.7875L144.372 101.778L119.724 109.213C119.724 109.213 128.686 104.454 130.03 101.778Z" fill="white" stroke="white" stroke-miterlimit="10"/>
+        <path d="M34.2364 101.16L24.9127 107.229H12L21.7209 100.899L12.1631 94.6746H24.7283L34.2364 101.16Z" fill="white"/>
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear_1_2" x1="375" y1="0" x2="375" y2="200" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#B1F4CF"/>
+            <stop offset="1" stop-color="#9890E3"/>
+        </linearGradient>
+        <clipPath id="clip0_1_2">
+            <rect width="133" height="179" fill="white" transform="matrix(-1 0 0 -1 739 190)"/>
+        </clipPath>
+        <clipPath id="clip1_1_2">
+            <rect width="133" height="179" fill="white" transform="translate(12 11)"/>
+        </clipPath>
+    </defs>
+</svg>
