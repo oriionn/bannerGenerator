@@ -24,10 +24,10 @@ npm start
 ### GET /
 Return a custom banner
 #### Parameters
-| Name | Type | Description         |
-|------| --- |---------------------|
-| name | string | Name of the project |
-| description | string | Description of the project |
+| Name | Type | Description                                        |
+|------| --- |----------------------------------------------------|
+| name | string | Name of the project                                |
+| description | string | Description of the project (Limit: 100 characters) |
 
 #### Example
 ```bash
