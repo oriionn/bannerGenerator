@@ -1,0 +1,16 @@
+<svg width="750" height="200" viewBox="0 0 750 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="750" height="200" rx="20" fill="url(#paint0_radial_6_2)"/>
+    <text x="50%" y="50%" font-family="monospace" font-size="30" fill="black" text-anchor="middle" alignment-baseline="middle">{{ERROR}}</text>
+    <defs>
+        <radialGradient id="paint0_radial_6_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(375 100) rotate(14.9314) scale(388.104 193.247)">
+            <stop stop-color="#DD3131"/>
+            <stop offset="0.9" stop-color="#770000"/>
+        </radialGradient>
+        <clipPath id="clip0_6_2">
+            <rect width="133" height="179" fill="white" transform="matrix(-1 0 0 -1 739 190)"/>
+        </clipPath>
+        <clipPath id="clip1_6_2">
+            <rect width="133" height="179" fill="white" transform="translate(12 11)"/>
+        </clipPath>
+    </defs>
+</svg>
