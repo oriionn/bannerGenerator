@@ -1,5 +1,5 @@
 # Banner Generator
-Little API for generate my custom banner for my projects.
+Little API to generate a custom banner for my projects.
 
 ## Installation
 1. Clone this repository
@@ -31,7 +31,7 @@ Return a custom banner
 
 #### Example
 ```bash
-http://localhost:3000/?name=Banner%20Generator&description=Little%20API%20for%20generate%20my%20custom%20banner%20for%20my%20projects.
+http://localhost:3000/?name=Banner%20Generator&description=Little%20API%20to%20generate%20a%20custom%20banner%20for%20my%20projects.
 ```
 
 ## License
