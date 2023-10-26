@@ -1,8 +1,8 @@
 <svg width="750" height="200" viewBox="0 0 750 200" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect width="750" height="200" rx="20" fill="url(#paint0_linear_1_2)"/>
-    <text x="50%" y="40%" font-family="Indie Flower, cursive" font-size="40" fill="black" text-anchor="middle" alignment-baseline="middle">{{NAME}}</text>
-    <text x="50%" y="60%" font-family="Rubik, sans serif" font-size="15" fill="black" style="width:1px;" text-anchor="middle" alignment-baseline="middle">{{DESCRIPTION}}</text>
-    <text x="50%" y="70%" font-family="Rubik, sans serif" font-size="15" fill="black" style="width:1px;" text-anchor="middle" alignment-baseline="middle">{{DESCRIPTION2}}</text>
+    <text x="50%" y="40%" font-family="monospace" font-size="40" fill="black" text-anchor="middle" alignment-baseline="middle">{{NAME}}</text>
+    <text x="50%" y="60%" font-family="monospace" font-size="15" fill="black" style="width:1px;" text-anchor="middle" alignment-baseline="middle">{{DESCRIPTION}}</text>
+    <text x="50%" y="70%" font-family="monospace" font-size="15" fill="black" style="width:1px;" text-anchor="middle" alignment-baseline="middle">{{DESCRIPTION2}}</text>
     <g clip-path="url(#clip0_1_2)">
         <path d="M715.391 180.821C679.926 180.821 651.2 144.456 651.2 99.6174C651.2 54.7791 679.926 18.4142 715.391 18.4142" stroke="white" stroke-width="11" stroke-miterlimit="10"/>
         <path d="M722.839 11C722.839 12.9664 722.054 14.8522 720.657 16.2426C719.261 17.6331 717.366 18.4142 715.391 18.4142" stroke="white" stroke-width="11" stroke-miterlimit="10"/>
@@ -32,6 +32,5 @@
         <clipPath id="clip1_1_2">
             <rect width="133" height="179" fill="white" transform="translate(12 11)"/>
         </clipPath>
-        <style type="text/css"> @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&amp;family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap'); </style>
     </defs>
 </svg>
